@@ -9,36 +9,40 @@
 </template>
 
 <script>
-import HeartCard from "@/components/HeartCard.vue";
+  import HeartCard from "@/components/HeartCard.vue";
 
-export default {
-  components: {
-    HeartCard
-  }
-};
+  export default {
+    components: {
+      HeartCard,
+    },
+  };
 </script>
 
 <style lang="scss">
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
 
-#logo {
-  color: #db93b0;
-  font-weight: 900;
-  font-size: 40px;
-}
+  body {
+    overflow: hidden;
+  }
 
-#app {
-  font-family: "Barlow", sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  padding: 40px 32px 0 32px;
-}
+  #logo {
+    color: #db93b0;
+    font-weight: 900;
+    font-size: 40px;
+  }
 
-a {
-  text-decoration: none;
-}
+  #app {
+    font-family: "Barlow", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding: 40px 32px 0 32px;
+  }
+
+  a {
+    text-decoration: none;
+  }
 </style>
