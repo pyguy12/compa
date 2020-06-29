@@ -268,7 +268,7 @@
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     position: absolute;
     left: 36vw;
-    top: 531px;
+    top: 510px;
     font-size: 120px;
     z-index: 3;
   }
@@ -278,51 +278,51 @@
     position: absolute;
     opacity: 0;
     z-index: 3;
-    padding-left: 10px;
+    padding-left: 15px;
   }
 
   #line1 {
-    top: 454px;
+    top: 433px;
     left: 20%;
   }
 
   #line2 {
-    top: 454px;
+    top: 433px;
     left: 20%;
   }
 
   #line3 {
-    top: 454px;
+    top: 433px;
     left: 22%;
   }
 
   #line4 {
-    top: 454px;
+    top: 433px;
     left: 28%;
   }
 
   #line5 {
-    top: 454px;
+    top: 433px;
     left: 9%;
   }
 
   #line6 {
-    top: 454px;
+    top: 433px;
     left: 10%;
   }
 
   #line7 {
-    top: 454px;
+    top: 433px;
     left: 24%;
   }
 
   #line8 {
-    top: 454px;
+    top: 433px;
     left: 7%;
   }
 
   #line9 {
-    top: 454px;
+    top: 433px;
     left: 10%;
   }
 
@@ -332,7 +332,7 @@
     font-weight: 600;
     font-size: 16px;
     text-shadow: none;
-    top: 454px;
+    top: 433px;
     left: 43%;
     opacity: 0;
     z-index: 3;
