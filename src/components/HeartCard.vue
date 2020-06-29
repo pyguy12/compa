@@ -267,7 +267,7 @@
     color: white;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     position: absolute;
-    left: 34vw;
+    left: 36vw;
     top: 531px;
     font-size: 120px;
     z-index: 3;
@@ -333,7 +333,7 @@
     font-size: 16px;
     text-shadow: none;
     top: 454px;
-    left: 41%;
+    left: 43%;
     opacity: 0;
     z-index: 3;
     color: white;
